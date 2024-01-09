@@ -1,3 +1,4 @@
+Without using function
 num=int(input("enter a number:"))
 sum=0
 n1=len(str(num))
@@ -12,7 +13,7 @@ if num == sum:
     print(num,"is an armstrong number")
 else:
     print(num,"is not an armstrong number")
-
+Using function
 # def is_armstrong(num,power):
 #     temp=num
 #     sum_of_powers=0
